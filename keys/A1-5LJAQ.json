@@ -1,8 +1,9 @@
 {
   "key_name": "A1-5LJAQ",
   "days": 365,
-  "expiry": "2027-05-16T03:43:51.269Z",
-  "hwid": null,
-  "status": "inactive",
-  "created_at": "2026-05-16T03:43:51.341Z"
+  "expiry": "2027-05-16T21:20:37.981Z",
+  "hwid": "645a09e9ed882784",
+  "status": "active",
+  "created_at": "2026-05-16T03:43:51.341Z",
+  "activated_at": "2026-05-16T21:20:37.981Z"
 }
