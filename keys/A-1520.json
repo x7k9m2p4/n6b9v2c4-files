@@ -1,8 +1,9 @@
 {
   "key_name": "A-1520",
   "days": 1,
-  "expiry": "2026-05-23T14:30:48.478Z",
-  "hwid": null,
-  "status": "inactive",
-  "created_at": "2026-05-22T14:30:48.568Z"
+  "expiry": "2026-05-23T14:43:11.952Z",
+  "hwid": "ea41c4452d907a4c",
+  "status": "active",
+  "created_at": "2026-05-22T14:30:48.568Z",
+  "activated_at": "2026-05-22T14:43:11.952Z"
 }
