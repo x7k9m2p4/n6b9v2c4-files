@@ -1,8 +1,9 @@
 {
   "key_name": "A1-7M9N3",
   "days": 7,
-  "expiry": "2026-05-31T14:54:39.495Z",
-  "hwid": null,
-  "status": "inactive",
-  "created_at": "2026-05-24T14:54:39.549Z"
+  "expiry": "2026-05-31T15:08:12.733Z",
+  "hwid": "293196d0c6ddcbab",
+  "status": "active",
+  "created_at": "2026-05-24T14:54:39.549Z",
+  "activated_at": "2026-05-24T15:08:12.733Z"
 }
