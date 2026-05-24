@@ -1,8 +1,9 @@
 {
   "key_name": "R",
   "days": 7,
-  "expiry": "2026-05-31T09:51:28.700Z",
-  "hwid": null,
-  "status": "inactive",
-  "created_at": "2026-05-24T09:51:28.777Z"
+  "expiry": "2026-05-31T09:51:49.840Z",
+  "hwid": "18d57589e45e1d0b",
+  "status": "active",
+  "created_at": "2026-05-24T09:51:28.777Z",
+  "activated_at": "2026-05-24T09:51:49.840Z"
 }
