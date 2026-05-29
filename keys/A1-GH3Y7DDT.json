@@ -1,8 +1,9 @@
 {
   "key_name": "A1-GH3Y7DDT",
   "days": 7,
-  "expiry": "2026-06-05T11:25:55.418Z",
-  "hwid": null,
-  "status": "inactive",
-  "created_at": "2026-05-29T11:25:55.526Z"
+  "expiry": "2026-06-05T11:26:33.921Z",
+  "hwid": "18d57589e45e1d0b",
+  "status": "active",
+  "created_at": "2026-05-29T11:25:55.526Z",
+  "activated_at": "2026-05-29T11:26:33.921Z"
 }
