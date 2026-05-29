@@ -1,8 +1,9 @@
 {
   "key_name": "AMBUJ",
   "days": 9999,
-  "expiry": "2053-10-12T19:46:59.479Z",
-  "hwid": null,
-  "status": "inactive",
-  "created_at": "2026-05-28T19:46:59.554Z"
+  "expiry": "2053-10-13T13:16:27.005Z",
+  "hwid": "bd9228353a79e2fc",
+  "status": "active",
+  "created_at": "2026-05-28T19:46:59.554Z",
+  "activated_at": "2026-05-29T13:16:27.005Z"
 }
