@@ -1,8 +1,9 @@
 {
   "key_name": "A1-512",
   "days": 7,
-  "expiry": "2026-06-12T17:32:52.534Z",
-  "hwid": null,
-  "status": "inactive",
-  "created_at": "2026-06-05T17:32:52.628Z"
+  "expiry": "2026-06-12T17:38:34.609Z",
+  "hwid": "6f86e2611e5db392",
+  "status": "active",
+  "created_at": "2026-06-05T17:32:52.628Z",
+  "activated_at": "2026-06-05T17:38:34.609Z"
 }
