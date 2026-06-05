@@ -1,8 +1,9 @@
 {
   "key_name": "A1-ZN3ZQ",
   "days": 7,
-  "expiry": "2026-06-12T18:05:59.311Z",
-  "hwid": null,
-  "status": "inactive",
-  "created_at": "2026-06-05T18:05:59.381Z"
+  "expiry": "2026-06-12T18:08:55.513Z",
+  "hwid": "c8e4ebb01248b875",
+  "status": "active",
+  "created_at": "2026-06-05T18:05:59.381Z",
+  "activated_at": "2026-06-05T18:08:55.513Z"
 }
