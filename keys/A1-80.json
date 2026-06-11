@@ -1,8 +1,9 @@
 {
   "key_name": "A1-80",
   "days": 7,
-  "expiry": "2026-06-18T07:51:07.533Z",
-  "hwid": null,
-  "status": "inactive",
-  "created_at": "2026-06-11T07:51:07.644Z"
+  "expiry": "2026-06-18T08:02:01.413Z",
+  "hwid": "bae4c14ff4d2d45c",
+  "status": "active",
+  "created_at": "2026-06-11T07:51:07.644Z",
+  "activated_at": "2026-06-11T08:02:01.413Z"
 }
