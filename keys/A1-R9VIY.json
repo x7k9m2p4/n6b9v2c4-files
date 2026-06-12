@@ -1,8 +1,9 @@
 {
   "key_name": "A1-R9VIY",
   "days": 7,
-  "expiry": "2026-06-19T06:53:02.735Z",
-  "hwid": null,
-  "status": "inactive",
-  "created_at": "2026-06-12T06:53:02.818Z"
+  "expiry": "2026-06-19T06:59:32.165Z",
+  "hwid": "844266852dff94e8",
+  "status": "active",
+  "created_at": "2026-06-12T06:53:02.818Z",
+  "activated_at": "2026-06-12T06:59:32.165Z"
 }
